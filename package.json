@@ -1,0 +1,12 @@
+{
+  "name": "missing_cb",
+  "version": "0.1.0",
+  "scripts": {
+    "server": "node server",
+    "client": "node client"
+  },
+  "license": "Apache-2.0",
+  "dependencies": {
+    "ssh2": "^1.10.0"
+  }
+}
